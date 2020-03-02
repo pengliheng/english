@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "markdownlint.run": "onSave",
+  "markdown.extension.tableFormatter.enabled": true
+}
